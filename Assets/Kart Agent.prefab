@@ -1131,7 +1131,7 @@ MonoBehaviour:
   kartModel: {fileID: 3137537921393488654}
   kartNormal: {fileID: 3137537922403377517}
   sphere: {fileID: 3137537921078816491}
-  acceleration: 65
+  acceleration: 20
   steering: 15
   gravity: 25
   layerMask:
